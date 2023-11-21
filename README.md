@@ -1,1 +1,3 @@
 # Israel-Palestine-War-Sentiment-Analysis-Mentorness-Internship-Project-2
+
+Description:- The "Israel Palestine War Sentiment Analysis" project involves analyzing public sentiment about the Israel-Palestine conflict using comments from the online platform Rediff. The dataset includes comment ID, score, comment text, subreddit, and creation time. The project includes data preprocessing, exploratory data analysis (EDA), sentiment analysis, and building a logistic regression model for sentiment classification. The sentiment analysis model, trained using Logistic Regression on TF-IDF-transformed text data, demonstrates strong performance with an accuracy of 92.23%. The project provides valuable insights into public opinion about the ongoing conflict.
